@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class BinaryTree {
+public class binary_tree {
     static Scanner sc = null;
 
     public static void main(String[] args) {
